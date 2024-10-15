@@ -5,7 +5,7 @@ html, body {
 body {
     font: 20px Montserrat, sans-serif;
     line-height: 1.8;
-    color: #f5f6f7;
+    color: #FF37A6;
 }
 
 p {
@@ -36,12 +36,12 @@ a {
 
 .bg-1 {
     background-color: #ffffff; /* White */
-    color: #555555;
+    color: #FFCAE9;
 }
 
 .bg-2 {
     background-color: #2e72a1; /* Blue */
-    color: #ffffff;
+    color: #43B929;
 }
 
 .card {
@@ -55,12 +55,12 @@ a {
 
 .bg-3 {
     background-color: #000000; /* Black */
-    color: #ffffff;
+    color: #87E752;
 }
 
 .bg-4 {
     background-color: #343a40; /* Dark Gray */
-    color: #fff;
+    color: #5CF64A;
 }
 
 .container-fluid {
