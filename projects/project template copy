@@ -44,10 +44,26 @@
     <div class="container-fluid bg-1">
         <div class="container">
 
-            <h1 class="margin text-center">Example Project</h1>
-            <p>Text about the project</p>
-            <p>More text about the project.</p>
+          
+            <h1 class="margin text-center ">Movie Webpage Project/h1>
+            <h2>Conext</h2>
+            <p> During the Movie Webpage project we learnd a lot of css and styling. It was really interesting to do because we did something new from zero and untill the end. My parter and i worked on the webpage for the movie about Sharks, Turtles and corals.</p>
+            <h2>Contet</h2>
+            <ul>
+            <li> Background colors transperency</li>
+            <li>how to put images in the code (pickcode website) </li>
+            <li>Buttons </li>
+            <li> Fonts</li>
+            <li>POsition of the text </li>
+            <li> Margin </li>
+             <li>Padding </li>
+             <li>Headers  </li>
+             <li>Borders </li>
+             <li>Links </li>
+            </ul>
             <a href="#">Link about the project</a><br>
+            <a href="https://app.pickcode.io/project/cm3ndu7639wfh9fpuy0r8yw44">Link about the project</a><br>
+            <a href="https://app.pickcode.io/share/cm3ndu7639wfh9fpuy0r8yw44">Link about the project preview</a><br>
 
             <!--EXAMPLE OF PREVIEW LINK-->
             <!--<a href="http://yourUserName.github.io/yourRepoName">Preview</a><br>-->
